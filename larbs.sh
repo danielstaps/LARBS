@@ -17,7 +17,7 @@ esac done
 [ -z "$dotfilesrepo" ] && dotfilesrepo="https://github.com/danielstaps/voidrice.git"
 [ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/danielstaps/LARBS/cappuccino/progs.csv"
 [ -z "$aurhelper" ] && aurhelper="paru"
-[ -z "$repobranch" ] && repobranch="master"
+[ -z "$repobranch" ] && repobranch="cappuccino"
 
 ### FUNCTIONS ###
 
